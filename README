@@ -1,0 +1,17 @@
+NAME
+    Hoge::Fuga2 -
+
+SYNOPSIS
+      use Hoge::Fuga2;
+
+DESCRIPTION
+    Hoge::Fuga2 is
+
+AUTHOR
+    Default Name <yappo <at> shibuya <döt> pl>
+
+SEE ALSO
+LICENSE
+    This library is free software; you can redistribute it and/or modify it
+    under the same terms as Perl itself.
+
